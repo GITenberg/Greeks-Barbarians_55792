@@ -1,11 +1,16 @@
 _repo: Greeks-Barbarians_55792
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55792-h/images/cover.jpg
 creator:
   author:
     agent_name: Kerr, James Alexander
     gutenberg_agent_id: '48514'
     url: http://www.gutenberg.org/2009/agents/48514
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55792#Greeks-Barbarians
 gutenberg_issued: '2017-10-22'
 gutenberg_type: Text
 identifiers:
